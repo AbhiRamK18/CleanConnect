@@ -387,12 +387,6 @@ ng build
 
 <hr>
 
-# Deployment
-
----soon---
-
-<hr>
-
 # Contribution Guidelines
 
 Contributions are welcome.

@@ -4,7 +4,7 @@ WasteZero is a full-stack web application designed to connect NGOs, volunteers, 
 <hr>
 
 # Live Link
-https://waste-zero-self.vercel.app/
+https://wastezero-backend-3fa5.onrender.com/
 
 # Tech Stack
 

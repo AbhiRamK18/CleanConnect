@@ -38,7 +38,7 @@ const corsOptions = {
   origin: [
     'http://localhost:4200',
     'http://127.0.0.1:4200',
-    'https://waste-zero-self.vercel.app',
+    'https://wastezero-backend-3fa5.onrender.com',
   ],
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
   credentials: true,

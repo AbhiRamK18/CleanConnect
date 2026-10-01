@@ -26,6 +26,7 @@ const applicationSchema = new mongoose.Schema(
       type: Date,
       default: null
     },
+    
     rejection_remark: {
       type: String,
       default: '',
